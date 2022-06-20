@@ -1,0 +1,26 @@
+Data la struttura dati :
+
+var dati = [
+
+    {id : "1" , prezzo : 50 },
+    {id : "2" , prezzo : 70 },
+    {id : "3" , prezzo : 30 },
+    {id : "4" , prezzo : 20 },
+    {id : "5" , prezzo : 10 },
+    {id : "6" , prezzo : 25 }
+    {id : "7" , prezzo : 28 }
+]
+
+1 )trovare la media del prezzo della struttura.
+
+2) Salvare in un vettore tutti gli obj  che
+ hanno un prezzo comprezzo compreso tra 20 - 30 estremi inclisi
+
+3) trovare l'object con prezzo minimo
+
+4)Stabilire quanti obj hanno un prezzo superiore alla media
+
+
+
+
+

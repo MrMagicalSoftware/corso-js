@@ -1,0 +1,52 @@
+dato il seguente array ... .
+
+
+var nemici = [
+
+    {nome :"Goomba il conquistatore", attack :30},
+    {nome : "Jack l'avaro", attack : 45},
+    {nome:"Liquid Ocelot", attack: 77},
+    {nome:"Psycho Mantis", attack : 85 }
+]
+
+// dati i seguenti nemici estrarre  un nemico
+//casualmente
+//stampare la forza totale dei nemici
+//trovare il nemico con piu' forza.
+
+
+Gruppi 4 - 
+
+(Alessio Luigi)
+(Demerson)
+(Erik)
+(Valerio Procaccianti)
+(Alessandro Catania)
+
+________________________
+
+Luca
+Karim
+Manfredi
+Alessio
+Enrico
+Alessandro
+
+_________________________
+
+Luca Riccio
+Giulia
+Loris
+Francesco
+Valerio
+Fabio
+
+______________________
+
+Alberto
+Davide
+Andrea
+Lorenzo
+Matteo
+
+

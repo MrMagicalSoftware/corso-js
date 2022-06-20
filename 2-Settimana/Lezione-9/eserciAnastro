@@ -1,0 +1,37 @@
+/**
+
+**/
+
+
+1) Funzione che prende in input 2 numeri 
+   e calcola la divisione
+
+2) Creare una funzione che prenda in input
+   3 numeri e determini il piu' grande
+
+    in-------->(n1 , n2 , n3) ---------> out
+
+
+3) creare una funzione che prenda una stringa
+   e ritorni il suo reverse
+   es : ciao ----> oiac
+
+4) creare una funzione che prenda in input un numero
+    ritorna true se il numero è pari altrimenti false
+
+5) creare una funzione che prenda in input un vettore
+    e un numero e ritorni true se il numero è presente nel vettore
+
+6 ) creare una fun che prenda in input un numero e ritorni il suo fattoriale
+    es 5 ===>   5 * 4 * 3 * 2 * 1 ----->  120
+
+7 ) creare una funzione che prenda un vettore di stringhe e ritorni
+    la stringa con piu' lettere a 
+
+    Es ["ciao" , "ala" , "mia" , "casa" , "gino"] ----> casa 
+    perchè casa ha 2 a 
+
+
+
+
+
